@@ -23,7 +23,7 @@ posts.forEach((name) => {
         description, 
         id,
         date,
-        src: `/src/${id}.txt`
+        src: `https://raw.githubusercontent.com/frontendkey/frontendkey.github.io/main/src/${id}.txt`
     });
     if(indexedPosts.find(i => i.id == id).length > 1) throw new Error(`Same ID cannot exists twice: ${id}`);
     if(!description) console.log(`\n[MISSING_DESCRIPTION]: ${name}, ID: ${id}`)
