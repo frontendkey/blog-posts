@@ -23,6 +23,7 @@ jobs:
 
     - name: Run
       run: |
+        rm -rf src && mkdir src
         yarn
         yarn start
     - name: Commit files
