@@ -20,18 +20,23 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - uses: actions/setup-node@v3
-
+ 
     - name: Run
       run: |
         rm -rf src && mkdir src
         yarn
-        yarn start
+        yarn maintain
     - name: Commit files
       run: |
         git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git commit -m "Took Screenshot" -a || true
-   
+        git commit -m "Done Updating" -a || true
+    - name: Create files
+      uses: EndBug/add-and-commit@v9
+      with:
+       message: Done Update
+       committer_name: GitHub Actions
+       committer_email: 41898282+github-actions[bot]@users.noreply.github.com
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
