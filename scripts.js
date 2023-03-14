@@ -14,7 +14,7 @@ posts.forEach((name) => {
         data.shift();
         return JSON.parse(JSON.parse(JSON.stringify(`{${data.join(",")}}`)))
     } 
-    const { description, id, date } = parsedMetadata();
+    const { description, id, date, title } = parsedMetadata();
     const window = new JSDOM('').window;
     const DOMPurify = createDOMPurify.default(window);
     const content = DOMPurify.sanitize(fileContent.slice(metadata.length+6));
@@ -22,12 +22,14 @@ posts.forEach((name) => {
     indexedPosts.push({
         description, 
         id,
+        title,
         date,
         src: `https://raw.githubusercontent.com/frontendkey/frontendkey.github.io/main/src/${id}.txt`
     });
     if(indexedPosts.find(i => i.id == id).length > 1) throw new Error(`Same ID cannot exists twice: ${id}`);
     if(!description) console.log(`\n[MISSING_DESCRIPTION]: ${name}, ID: ${id}`)
     if(!date) console.log(`\n[MISSING_DATE]: ${name}, ID: ${id}`)
+    if(!title) console.log(`\n[MISSING_TITLE]: ${name}, ID: ${id}`)
     fs.writeFileSync(`./src/${id}.txt`, content.slice(1))
 }) 
 
