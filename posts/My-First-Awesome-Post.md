@@ -1,5 +1,5 @@
 ---
-description: "hello",
+description: "hello"
 id: 1
 ---
 
