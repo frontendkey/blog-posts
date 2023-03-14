@@ -1,4 +1,5 @@
 ---
+"title": "My first awesome post"
 "description": "hello"
 "id": 1
 "date": "2 Jan 2023"
