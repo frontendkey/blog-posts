@@ -31,6 +31,15 @@ posts.forEach((name) => {
     if(!date) console.log(`\n[MISSING_DATE]: ${name}, ID: ${id}`)
     if(!title) console.log(`\n[MISSING_TITLE]: ${name}, ID: ${id}`)
     fs.writeFileSync(`./src/${id}.txt`, content.slice(1))
+    fs.writeFileSync(`./meta/${id}.json`, JSON.stringify(
+       {
+        description, 
+        id,
+        title,
+        date, 
+        content: content.slice(1)
+       }
+    ))
 }) 
 
 console.log(`
