@@ -8,7 +8,7 @@
 
 In this article, I'll be sharing my experiences on creating this blog, as well as cool frameworks and libraries that are being used to build this up.
 
-> **Links**
+> ## Links
 > - [Source code of the blog](https://github.com/leecheeyong/blog)
 > - [Source of content](https://github.com/frontendkey/frontendkey.github.io)
 > - [Link to blog](https://blog.joelee.works)
