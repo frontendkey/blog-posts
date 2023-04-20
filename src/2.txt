@@ -28,4 +28,9 @@ const isDark = useDark()
 const toggleBg = useToggle(isDark)
 ```
 
-How about the page design, you might ask. I was lazy this time and decided not to code a custom CSS styling for this project, and I use a CSS framework --- [Tailwind CSS](https://tailwindcss.com) instead.
+How about the page design, you might ask. I was lazy this time and decided not to code a custom CSS styling for this project, and I used a CSS framework --- [Tailwind CSS](https://tailwindcss.com) instead.
+
+> ### Why Tailwind CSS ?
+> I was able to implement/setup and get both Vue and Tailwind CSS to work together flawlessly with just few lines of commands and code, awesome.
+> Tailwind CSS did a good job on marketing and it caught my eyes I guess... But anyways, it is an amazing framework that is well documented and easy to use. Speaking about easy to use, you should check out [Tailwind UI](https://tailwindui.com), I use Tailwind UI for most part of my blog (Navigation bar, footer and many more)
+
