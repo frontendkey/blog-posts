@@ -46,7 +46,7 @@ Now let's talk about security. I've implemented [dompurify](https://npmjs.com/do
 
 ### Contents
 
-Last but not least, let's talk about where the contents of this blog were stored and use. 
+Last but not least, let's talk about where the contents of this blog were stored and used. 
 
-Contents in this blog were written as markdown and will be converted into HTML upon page load (part of client side rendering). These contents are stored on Github and fetched from Github CDN (content delivery network). I was lazy to code another interface for writing blog and I think that storing these contents on Github should be a reliable and convenient way of doing. With that said, Github Action is being used to sanitize and arrange everything. 
+Contents in this blog were written as markdown and will be converted into HTML upon page load (part of client side rendering). These contents are stored on Github and fetched from Github CDN (content delivery network). I was lazy to code another interface for writing blog (might as well require an interaction with databases) and to keep it simple, I think that storing these contents on Github should be a reliable and convenient way of doing. With that said, Github Action is being used to sanitize and arrange everything. 
 
