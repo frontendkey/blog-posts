@@ -28,8 +28,8 @@ It was kind of weird that I have been learning the older version of Vue2 (as wel
 > Dark mode toggle is necessary for an application like this (lots of reading) and I started with [Vue Ref](https://vuejs.org/api/reactivity-core.html) and [localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage), this was my earliest idea and it was not simple to implement, but I still got mine to work, sorta. 
 >
 > Since mine was not stable, I scouted the internet and found [@vueuse/core](https://npmjs.com/@vueuse/core), this library implements lots of useful features into a Vue application, this includes the dark mode toggle feature. Heck it was so simple to implement this with just few lines of code !
-> ```js
+```js
   import { useDark, useToggle } from '@vueuse/core'
   const isDark = useDark()
   const toggleBg = useToggle(isDark)
-  ```
+```
