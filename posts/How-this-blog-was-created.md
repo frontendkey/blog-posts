@@ -8,11 +8,12 @@
 
 In this article, I'll be sharing my experiences on the creation of this blog, as well as cool frameworks and libraries that are being used to build this up.
 
-> ## Links
+> ### Links
 > - [Source code of the blog](https://github.com/leecheeyong/blog)
 > - [Source of content](https://github.com/frontendkey/frontendkey.github.io)
 > - [Link to blog](https://blog.joelee.works)
 
 Cool, let's get started ! 
 
-First, I would like to introduce the framework I'm using -- [Vue](https://vuejs.org)
+First, I would like to introduce the framework I'm using -- [Vue](https://vuejs.org). This was my first ever former project made using Vue and the goal is 
+to get familiar with this framework. 
