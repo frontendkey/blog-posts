@@ -38,5 +38,7 @@ How about the page design, you might ask. I was lazy this time and decided not t
 
 > ### Why Tailwind CSS ?
 > I was able to implement/setup and get both Vue and Tailwind CSS to work together flawlessly with just few lines of commands and code, awesome.
-> Tailwind CSS did a good job on marketing and it caught my eyes I guess... But anyways, it is an amazing framework that is well documented and easy to use. Speaking about easy to use, you should check out [Tailwind UI](https://tailwindui.com), I use Tailwind UI for most part of my blog (Navigation bar, footer and many more)
+> Tailwind CSS did a good job on marketing and it caught my eyes I guess... But anyways, it is an amazing framework that is well documented and easy to use. Speaking about easy to use, you should check out [Tailwind UI](https://tailwindui.com), I use Tailwind UI for most part of the styling (Navigation bar, footer and many more), it is also easy to customize to fit your needs although there are many components that are locked behind the paywall, which is very annoying.
+
+Now let's talk about security. I've implemented [dompurify](https://npmjs.com/dompurify) on both server and client side to prevent XSS (Cross site scripting). Unlike [Svelte](https://svelte.dev), Vue does not filter out Javascript code on content render and this may allow an attacker to execute malicious code on a visitor's browser without their consent.
 
