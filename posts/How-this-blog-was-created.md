@@ -29,7 +29,7 @@ It was kind of weird that I have been learning the older version of Vue2 (as wel
 >
 > Since mine was not stable, I scouted the internet and found [@vueuse/core](https://npmjs.com/@vueuse/core), this library implements lots of useful features into a Vue application, this includes the dark mode toggle feature. Heck it was so simple to implement this with just few lines of code !
 > ```js
-import { useDark, useToggle } from '@vueuse/core'
-const isDark = useDark()
-const toggleBg = useToggle(isDark)
-```
+  import { useDark, useToggle } from '@vueuse/core'
+  const isDark = useDark()
+  const toggleBg = useToggle(isDark)
+  ```
