@@ -33,3 +33,5 @@ import { useDark, useToggle } from '@vueuse/core'
 const isDark = useDark()
 const toggleBg = useToggle(isDark)
 ```
+
+How about the page design, you might ask. I was lazy this time and decided not to code a custom CSS styling for this project, and I use a CSS framework --- [Tailwind CSS](https://tailwindcss.com) instead.
