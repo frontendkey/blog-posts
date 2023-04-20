@@ -15,5 +15,6 @@ In this article, I'll be sharing my experiences on the creation of this blog, as
 
 Cool, let's get started ! 
 
-First, I would like to introduce the framework I'm using --- [Vue](https://vuejs.org). This was my first ever former project made using Vue and the goal is 
-to get familiar with this framework. Not sure why I picked this over other JavaScript framework for building such application, for instance [React](https://react.dev), but I assume that 
+First, I would like to introduce the framework I'm using --- [Vue](https://vuejs.org).
+This was my first ever former project made using Vue and the goal is to get familiar with this framework.
+Not sure why I picked this over other JavaScript framework for building such application, for instance [React](https://react.dev), but I assume that 
