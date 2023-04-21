@@ -57,4 +57,4 @@ This was an amazing experience, I've learnt a lot about Vue and Tailwind CSS. Ye
 
 Almost forgot about hosting, currently I'm using [Vercel](https://vercel.com) to host this blog and the Vercel free tier is superb. Vercel does a real good job on hosting such application and I would definitely recommend this service. 
 
-Woah, can't believe I just finished my first blog, damn was that crazy. 
+Woah, can't believe I just finished my first blog, damn was that crazy. Anyways, hope you enjoy reading my blog. Thank you.
