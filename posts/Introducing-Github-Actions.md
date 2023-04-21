@@ -14,8 +14,8 @@ I'll specifying my use case for services listed below, turst me, they do a reall
 
 Trust me, you should go create a Github account if you don't have one, there are too many handful features packed in Github. Let me list a few that I love using.
 
-- Github Actions
-- Codespaces
-- Github Copilot
-- Github Pages
+- Github Actions - Continuous integration and continuous delivery (CI/CD) platform that allows you to automate build, test, and deployment pipeline
+- Codespaces - An online IDE. Development environment that's hosted in the cloud.
+- Github Copilot - Coding assistance 
+- Github Pages - Host static sites on web for free without limitation 
 
