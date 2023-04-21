@@ -19,3 +19,10 @@ Trust me, you should go create a Github account if you don't have one, there are
 - **Github Copilot** - Coding assistance 
 - **Github Pages** - Host static sites on web for free without limitation 
 
+There is also the Github Student Pack for students who has a `.edu` school email. Trust me, its free and provide lots of offers, trials and perks. Claim it now if you're a student !
+
+### 2. Replit
+
+I use Replit mostly for hosting projects that can't be hosted on platforms like Vercel, for instance, a Discord Bot. I do own a VPS, but the specs aren't great and I would use Replit for low priority projects.
+
+Replit is an online development environment just like Github Codespaces, but with difference. Personally, I do not like to interact with thier code editor, terminal, they're bad in my opinion. But the fact that I can spin up a development environment in a matter of seconds, and other than computing & storage limit, there are no other limits on time usage, bandwith limits and so on. For this, I would give Replit a solid 8 out of 10. 
