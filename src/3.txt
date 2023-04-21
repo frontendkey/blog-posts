@@ -1,4 +1,4 @@
-## "Amazing service providers"
+## "Amazing platforms/service providers"
 
 There are lots of amazing tools and services out there and I've handpicked a few that I use to share with you all. Most of them are either free, or has a free tier/trial, so don't hesitate to check them out.
 
@@ -35,3 +35,9 @@ Saucelabs is a cloud-hosted, web and mobile application automated/manual testing
 Well you literally get an instant temporary device to play around with by just a few clicks, and its free! They provide real devices and virtual devices for free that you can choose to use for a few minutes to test out your website or do some sneaky stuff (please don't)...
 
 Let me name a few platforms/operating systems that you can choose from as a free user. There are iPhones, Android, Windows 10/11, MacOS 13,12 and many more.
+
+## Conclusion
+
+There should be more platforms listed, but why aren't they listed here ?
+
+Inflation, abuses and many other factors has caused many platforms to either stop providing their services for free, or they've added more limitation to the services they provide, thus making me switch or no longer use. That's the end of my list, I hope this list helps, have a good day!
