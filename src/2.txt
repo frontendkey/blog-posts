@@ -47,8 +47,8 @@ Contents in this blog were written as markdown and will be converted into HTML u
 
 ### Conclusion
 
-This was an amazing experience, I've learnt a lot about Vue and Tailwind CSS. Yes I would like to give a shoutout to all the open source libraries, you can find them here at [README.md](https://github.com/leecheeyong/blog). 
+This was an amazing experience, I've learnt a lot about Vue and Tailwind CSS. And yes, I would like to give a shoutout to all the open source libraries, you can find them here at [README.md](https://github.com/leecheeyong/blog#readme)
 
 Almost forgot about hosting, currently I'm using [Vercel](https://vercel.com) to host this blog and the Vercel free tier is superb. Vercel does a real good job on hosting such application and I would definitely recommend this service. 
 
-Woah, can't believe I just finished my first blog, damn was that crazy. Anyways, hope you enjoy reading my blog. Thank you.
+Woah, can't believe I've just finished my first blog, damn was that crazy. Anyways, hope you enjoy reading my blog. Thank you.
