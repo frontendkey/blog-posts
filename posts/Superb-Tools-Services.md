@@ -32,6 +32,9 @@ Almost forgot about keeping your projects running for free. I've switched from G
 ### 3. Vercel
 
 Vercel is yet another platform to host your applications, but its meant for hosting serverless applications. I'm using Vercel free tier to host this blog and many other projects as its stable and reliable. 
-
 > Projects hosted on Vercel would never go down if something causes my code to crash
+
+### 4. Saucelabs
+
+Saucelabs is a cloud-hosted, web and mobile application automated/manual testing platform. Well you literally get an instant temporary device to play around with by just a few clicks, and its free ! They provide real device and virtual device for free that you can use for a few minutes to test out your website or do some sneaky stuff (please don't)...
 
