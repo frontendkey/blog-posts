@@ -6,4 +6,16 @@
 ---
 ## "Amazing service providers"
 
-There are lots of amazing tools and services out there and I've handpicked a few to share with you all. Many of these are free, or has a free tier, so don't hesitate to check them out.
+There are lots of amazing tools and services out there and I've handpicked a few that I use to share with you all. Most of them are either free, or has a free tier/trial, so don't hesitate to check them out.
+
+I'll specifying my use case for services listed below, turst me, they do a really good job on those tasks.
+
+### 1. Github
+
+Trust me, you should go create a Github account if you don't have one, there are too many handful features packed in Github. Let me list a few that I love using.
+
+- Github Actions
+- Codespaces
+- Github Copilot
+- Github Pages
+
