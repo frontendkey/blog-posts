@@ -13,7 +13,7 @@ First, I would like to introduce the framework I'm using --- [Vue](https://vuejs
 This was my first ever former project made using Vue and the goal is to get familiar with this framework.
 Not sure why I picked this over other JavaScript framework for building such application, for instance [React](https://react.dev), but I assume that it was because its easier to understand and learn with my current programming skills.
 
-It was kind of weird that I have been learning the older version of Vue2 (as well as using it at the beginning), and Vue3 was there the whole time. To me, Vue2 was difficult to use and read but I quickly switched to Vue3 after knowing its existance. 
+It was kind of weird that I have been learning the older version of Vue2 (as well as using it at the beginning), and Vue3 was there the whole time. To me, Vue2 was difficult to use and read but I quickly switched to Vue3 after knowing its existence. 
 
 ### Performance 
 
@@ -49,5 +49,6 @@ Contents in this blog were written as markdown and will be converted into HTML u
 
 This was an amazing experience, I've learnt a lot about Vue and Tailwind CSS. Yes I would like to give a shoutout to all the open source libraries, you can find them here at [README.md](https://github.com/leecheeyong/blog). 
 
-Almost forgot about hosting, I'm currently using [Vercel](https://vercel.com) to host this application. Vercel is awesome
+Almost forgot about hosting, currently I'm using [Vercel](https://vercel.com) to host this blog and the Vercel free tier is superb. Vercel does a real good job on hosting such application and I would definitely recommend this service. 
 
+Woah, can't believe I just finished my first blog, damn was that crazy. 
