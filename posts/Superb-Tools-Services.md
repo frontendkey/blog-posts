@@ -26,3 +26,12 @@ There is also the Github Student Pack for students who has a `.edu` school email
 I use Replit mostly for hosting projects that can't be hosted on platforms like Vercel, for instance, a Discord Bot. I do own a VPS, but the specs aren't great and I would use Replit for low priority projects.
 
 Replit is an online development environment just like Github Codespaces, but with some differences. Personally, I do not like to interact with thier code editor, terminal, they're bad in my opinion. But the fact that I can spin up a development environment in a matter of seconds, and other than computing power & storage, there are no other limits on time usage, bandwith limits and so on. For this, I would give Replit a solid 8 out of 10. 
+
+Almost forgot about keeping your projects running for free. I've switched from Glitch to Replit due to Glitch blocking/preventing projects from staying awake. I was able to get around 80% of uptime on average with the help of UptimeRobot sending a HTTP request to my Replit project every 5 minute.
+
+### 3. Vercel
+
+Vercel is yet another platform to host your applications, but its meant for hosting serverless applications. I'm using Vercel free tier to host this blog and many other projects as its stable and reliable. 
+
+> Projects hosted on Vercel would never go down if something causes my code to crash
+
