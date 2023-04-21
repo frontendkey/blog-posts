@@ -36,5 +36,8 @@ Vercel is yet another platform to host your applications, but its meant for host
 
 ### 4. Saucelabs
 
-Saucelabs is a cloud-hosted, web and mobile application automated/manual testing platform. Well you literally get an instant temporary device to play around with by just a few clicks, and its free ! They provide real device and virtual device for free that you can use for a few minutes to test out your website or do some sneaky stuff (please don't)...
+Saucelabs is a cloud-hosted, web and mobile application automated/manual testing platform.
 
+Well you literally get an instant temporary device to play around with by just a few clicks, and its free! They provide real devices and virtual devices for free that you can choose to use for a few minutes to test out your website or do some sneaky stuff (please don't)...
+
+Let me name a few devices/operating system that you can choose from as a free user. There are iPhones, Android, Windows 10/11, MacOS 13,12 and many more.
