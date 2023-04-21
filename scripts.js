@@ -40,6 +40,7 @@ posts.forEach((name) => {
         content: content.slice(1)
        }
     ))
+    console.log("Indexed", name, id, "--" ,description)
 }) 
 
 console.log(`
