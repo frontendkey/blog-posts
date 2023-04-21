@@ -1,16 +1,9 @@
 ---
-"title": "Introducing Github Actions"
-"description": "Learn about Github Actions. Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta."
+"title": "Superb Tools & Services"
+"description": "Talk about tools & services that leveled up my workflow and enchanced my productivity."
 "id": 3
 "date": "5 Jan 2023"
 ---
-# Spicy Chicken Chop
+## "Amazing service providers"
 
-Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.
-
-> Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta.
-
-- apple
-- orange
-- juice
-- joe
+There are lots of amazing tools and services out there and I've handpicked a few to share with you all. Many of these are free, or has a free tier, so don't hesitate to check them out.
