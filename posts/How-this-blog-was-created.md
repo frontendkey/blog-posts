@@ -19,7 +19,7 @@ First, I would like to introduce the framework I'm using --- [Vue](https://vuejs
 This was my first ever former project made using Vue and the goal is to get familiar with this framework.
 Not sure why I picked this over other JavaScript framework for building such application, for instance [React](https://react.dev), but I assume that it was because its easier to understand and learn with my current programming skills.
 
-It was kind of weird that I have been learning the older version of Vue2 (as well as using it at the beginning), and Vue3 was there the whole time. To me, Vue2 was difficult to use and read but I quickly switched to Vue3 after knowing its existence. 
+It was kind of weird that I have been learning the options API (as well as using it at the beginning), and the composition API was there the whole time. To me, options API was difficult to use and read but I quickly switched to composition API after knowing its existence. 
 
 ### Performance 
 
