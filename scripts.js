@@ -50,5 +50,4 @@ There are total of ${posts.length} file(s)
 `)
 
 fs.writeFileSync("./sitemap.txt", indexedPosts.map(m => `https://blog.joelee.works/${m.id}`).join("\n"))
-
 fs.writeFileSync("./blogPosts.json", JSON.stringify(indexedPosts))
