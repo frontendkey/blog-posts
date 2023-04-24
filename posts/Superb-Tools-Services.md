@@ -31,7 +31,7 @@ Almost forgot about keeping your projects running for free. I've switched from G
 
 ### 3. Vercel
 
-Vercel is yet another platform to host your applications, but its meant for hosting serverless applications. I'm using Vercel free tier to host this blog and many other projects as its stable and reliable. 
+Vercel is yet another platform to host your applications, but its meant for hosting serverless applications. I'm using Vercel free tier to host many projects including this blog as its stable and reliable. 
 > Projects hosted on Vercel would never go down if something causes my code to crash
 
 ### 4. Saucelabs
