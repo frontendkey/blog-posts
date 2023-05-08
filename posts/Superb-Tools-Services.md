@@ -44,6 +44,6 @@ Let me name a few platforms/operating systems that you can choose from as a free
 
 ## Conclusion
 
-There should be more platforms listed, but why aren't they here ?
+Not just these platforms you might ask...
 
-Inflation, abuses and many other factors has caused many platforms to either stop providing their services for free, or they've added more limitation to the services they provide, thus making me switch or no longer use. That's the end of my list, I hope this list helps, have a good day!
+Yes, I might miss a few (feel free to tell me about it), but inflation, abuses and many other factors have been causing many platforms to either stop providing their services for free, or they've added more limitation to the services they provide, thus making me switch or no longer use. That's the end of my list, I hope this list helps, have a good day!
