@@ -36,5 +36,8 @@ A recommended strong password is at least 8 characters long and includes a mix o
 ### Two Factor Authentication (2FA) - Google Authenticator/Authy
 > Note that enabling two factor authentication such as Google Authenticator does not prevent your account from getting hacked
 
-This type of second factor authentication is not the best, but it is supported by many platforms.
+This type of second factor authentication is not the best, but it is supported by many platforms. Do choose something better over this if possible.
+
+#### Why isn't it the best ?
+It's simple, just like your password, these verification codes can be stolen through phishing attacks, SIM swap attacks and many more.
 
