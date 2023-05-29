@@ -1,6 +1,6 @@
 ---
 "title": "What does securing an online account take"
-"description": "Illo sint voluptas. Error voluptates culpa eligendi. Hic vel totam vitae illo. Non aliquid explicabo necessitatibus unde. Sed exercitationem placeat consectetur nulla deserunt vel. Iusto corrupti dicta."
+"description": "Securing an account does not mean that it is free from getting hacked. What should you do to lower the risk of getting hacked to the lowest ?"
 "id": 1
 "date": "2 Jan 2023"
 ---
