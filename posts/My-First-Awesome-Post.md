@@ -7,3 +7,9 @@
 # What is a secure online account ?
 
 A secure account does not make it unhackable, but it requires more effort and time. Well we often call it impossible, but there are still ways to make it happen, so don't assume. 
+
+## What are the benefits ?
+
+Oh, there are many "benefits" of having a secure account but there are some drawbacks too which we will talk about later on.
+- **Secure your identity** - When you create an account, you typically provide some personal information, such as your name, email address, and phone number. If your account is not secure, this information could be stolen by hackers. They could then use this information to commit identity theft, which can have a devastating impact on your financial and personal life.
+- **To protect your privacy** - Well, some people do not care about their privacy, but guess what, you are giving up your browsing history, search history, and even your location to the hackers. Which is very creepy if they let everyone know.
