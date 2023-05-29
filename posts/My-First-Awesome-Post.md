@@ -21,14 +21,14 @@ In short, there are many good reasons to secure your account. By taking some act
 
 Before going any further, there are few fundamental procedures you must apply.
 
-### 1. Don't reuse passwords
+#### 1. Don't reuse passwords
 Use a different password for each account. This will make it much harder for hackers to guess your passwords.
 
-### 2. Be careful what information you share online
+#### 2. Be careful what information you share online
 Don't share your personal information with people you don't know.
 
-### 3. Keep your software up to date
+#### 3. Keep your software up to date
 Software updates often include security patches that can help to protect your account from hackers.
 
-### 4. Use strong passwords
+#### 4. Use strong passwords
 A recommended strong password is at least 8 characters long and includes a mix of upper and lowercase letters, numbers, and symbols. But nothing is unhackable, we'll go deep into this later on.
