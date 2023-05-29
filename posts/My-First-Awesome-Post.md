@@ -1,5 +1,5 @@
 ---
-"title": "What does securing an online account take"
+"title": "Securing an online account"
 "description": "Securing an account does prevent it from getting hacked. What should you do to reduce the risk of getting hacked to the lowest?"
 "id": 1
 "date": "2 Jan 2023"
