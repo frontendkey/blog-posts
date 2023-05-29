@@ -1,9 +1,9 @@
 ---
 "title": "What does securing an online account take"
-"description": "Securing an account does not mean that it is free from getting hacked. What should you do to lower the risk of getting hacked to the lowest ?"
+"description": "Securing an account does prevent it from getting hacked. What should you do to reduce the risk of getting hacked to the lowest?"
 "id": 1
 "date": "2 Jan 2023"
 ---
-# hello world
+# What is a secure online account ?
 
-this is a test content
+A secure account does not make it unhackable, but it requires more effort and time. Well we often call it impossible, but there are still ways to make it happen, so don't assume. 
