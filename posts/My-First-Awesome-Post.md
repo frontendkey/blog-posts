@@ -33,8 +33,8 @@ Software updates often include security patches that can help to protect your ac
 #### 4. Use strong passwords
 A recommended strong password is at least 8 characters long and includes a mix of upper and lowercase letters, numbers, and symbols. But nothing is unhackable, we'll go deep into this later on.
 
-### Two Factor Authentication (2FA) - Google Authenticator/Authy
-> Note that enabling two factor authentication such as Google Authenticator does not prevent your account from getting hacked
+### Two Factor Authentication (2FA) 
+> Note that enabling two factor authentication such as Google Authenticator or Authy does not prevent your account from getting hacked
 
 This type of second factor authentication is not the best, but it is supported by many platforms. Do choose something better over this if possible.
 
