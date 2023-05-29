@@ -16,3 +16,19 @@ Oh, there are many "benefits" of having a secure account but there are some draw
 -  **Protect your reputation** - If your account is hacked, the hacker could post embarrassing or damaging information about you online. This could damage your reputation and make it difficult to get a job, rent an apartment, or even get a loan. Things that are done under your account is tantamount to things that are done by you.
 
 In short, there are many good reasons to secure your account. By taking some action to secure your account, you'll have less hesitation  to worry about.
+
+## Getting Started
+
+Before going any further, there are few fundamental procedures you must apply.
+
+### 1. Don't reuse passwords
+Use a different password for each account. This will make it much harder for hackers to guess your passwords.
+
+### 2. Be careful what information you share online
+Don't share your personal information with people you don't know.
+
+### 3. Keep your software up to date
+Software updates often include security patches that can help to protect your account from hackers.
+
+### 4. Use strong passwords
+A recommended strong password is at least 8 characters long and includes a mix of upper and lowercase letters, numbers, and symbols. But nothing is unhackable, we'll go deep into this later on.
